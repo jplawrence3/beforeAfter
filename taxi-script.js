@@ -12,7 +12,7 @@ $(document).ready(function(){
 		$(".before").fadeOut(5000);
 	});		
 
-	$(".after").click(function(){
+	$(".big-gun").click(function(){
 		$(".before").fadeIn(5000);
 	});		
 
